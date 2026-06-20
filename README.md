@@ -1,7 +1,10 @@
 # Iris QA Suite
 
-Playwright + TypeScript regression suite for the Iris Sciences Operational
-Console, covering 7 confirmed bugs found during a QA audit.
+Playwright + TypeScript regression suite for the Iris Sciences
+Operational Console, covering 7 of 12 bugs confirmed during a QA
+audit (the remaining 5 were verified-correct behaviors — e.g.
+account lockout, form validation — with low regression value, so
+they were intentionally not automated).
 
 ## Setup
 
